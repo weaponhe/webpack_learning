@@ -1,0 +1,11 @@
+{
+  "name": "01",
+  "description": "Getting started",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "webpack && node dist/bundle.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}

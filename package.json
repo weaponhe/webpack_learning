@@ -1,0 +1,11 @@
+{
+  "name": "webpack_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "weaponhe",
+  "license": "ISC"
+}
